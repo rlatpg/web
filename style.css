@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Noto Sans KR',sans-serif;
+    src: url(https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap);
+}
+*{margin: 0;font-family: 'Noto Sans KR';list-style:none;}
+.box1{position:relative;height: 1077px;}
+.box1 ul{position:absolute;left:50%;transform:translateX(-50%);text-align: center;}
+.box1 ul li:nth-child(1){font-size:91.51px;}
+.box1 ul li:nth-child(2){font-size: 67.63px;}
+.box2{position:absolute;left:50%;transform:translateX(-50%);}
+.box2 img{margin-top: 73px;}
+.box2 p{text-align: left;margin-top: 68.5px;font-size: 24px;}
+.box2 img{margin-top: 68.5px;}
+.box2 p{text-align: left;margin-top: 68.5px;font-size: 24px;}
+.box3 img{position:absolute;left:50%;transform:translateX(-50%); margin-top: 2250px;}
+.box3 p{text-align: left;position:absolute;left:50%;transform:translateX(-50%); margin-top: 2500px; font-size: 24px;}
+.box4 img{position:absolute;left:50%;transform:translateX(-50%); margin-top: 3020px;}
+.box4 p{text-align: left;position:absolute;left:50%;transform:translateX(-50%); margin-top: 3820px; font-size: 14.71px;}
+.box5 p{text-align: left;position:absolute;left:50%;transform:translateX(-50%); margin-top: 3900px; font-size: 24px;}
+.box5 img{text-align: left;position:absolute;left:50%;transform:translateX(-50%); margin-top: 4470px; }
+.box6 p{text-align: left;position:absolute;left:50%;transform:translateX(-50%); margin-top: 6000px; font-size: 14.71px;}
